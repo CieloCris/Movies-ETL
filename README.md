@@ -41,4 +41,4 @@ In the following screenshots, we presented the process of each  part of the chal
 ## Summary
 
 The Extract, Transform, and Load process is very efficient for companies like Amazing Prime. 
-However, this project was challenging because of its complexity. We even had problems with GitHub because of the larges files and also had issues with converting a DataFrame into a SQL table. We need to keep practicing to fully understand all of this topics.
+However, this project was challenging because of its complexity. We even had problems with GitHub because of the larges files and also had issues understanding other topics, that is why We have to keep practicing.
